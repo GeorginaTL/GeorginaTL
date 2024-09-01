@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Where you find me
+
+-[Gmail](georginatelloleon@gmail.com
+-[Facebook](https://www.facebook.com/georgina.t.leon/)
