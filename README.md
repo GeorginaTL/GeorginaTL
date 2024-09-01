@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 Where you find me
 
 -[Gmail](georginatelloleon@gmail.com
--[Facebook](https://www.facebook.com/georgina.t.leon/)
