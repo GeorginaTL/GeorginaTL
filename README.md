@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 
 Where you find me
 
--[Gmail](georginatelloleon@gmail.com
+- [Gmail](georginatelloleon@gmail.com)
