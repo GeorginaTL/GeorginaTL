@@ -4,7 +4,7 @@
 
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollo+web+y+edicion+multimedia..&hearts;++;Ingeniero+en+Sistemas+Computacionales,;Graduada+de+Data+Scientist,;Estudiando+Diseño+Grafico+y+Marketing+Digital,;Apasionada+por+aprender+nuevas+habilidades..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollo+web+y+edicion+multimedia..&hearts;++;Ingeniero+en+Sistemas+Computacionales,;Graduada+de+Data+Scientist,;Estudio+Diseño+Grafico+y+Marketing+Digital,;Apasionada+por+aprender+nuevas+habilidades..<3"></a>
 </p>
 <br>
 
@@ -52,6 +52,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Where you find me
+Contacto-
 
 - [Gmail](georginatelloleon@gmail.com)
