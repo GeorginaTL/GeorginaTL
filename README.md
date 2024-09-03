@@ -4,13 +4,14 @@
 
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Me+encanta+el+desarrollo+de+software+y+edicion+multimedia..&hearts;++;Ingeniero+en+Sistemas+Computacionales,;Graduada+de+Data+Scientist,;Estudiando+Diseño+Grafico+y+Marketing+Digital,;Apasionada+por+aprender+nuevas+habilidades..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollo+web+y+edicion+multimedia..&hearts;++;Ingeniero+en+Sistemas+Computacionales,;Graduada+de+Data+Scientist,;Estudiando+Diseño+Grafico+y+Marketing+Digital,;Apasionada+por+aprender+nuevas+habilidades..<3"></a>
 </p>
 <br>
 
 
 **Sobre mi**
-Me apasiona el desarrollo de software, diseño y edicion de archivos multimedia, iniciando con entusiasmo mi carrera de Data Scientist. Quisiera utilizar mis conocimientos para satisfacer una necesidad empresarial y dar un excelente servicio a clientes.
+- Iniciando con entusiasmo mi carrera de Data Scientist. 
+- Me apasiona el desarrollo de software, diseño y edicion de archivos multimedia, Quisiera utilizar mis conocimientos para satisfacer una necesidad empresarial y dar un excelente servicio a clientes.
 
 
 <br>
@@ -23,7 +24,7 @@ Me apasiona el desarrollo de software, diseño y edicion de archivos multimedia,
 
 - **Cloud Hosting**:
 
-    ![Github Pages](/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 
 - **Softwares y Herramientas-**:
 
@@ -34,7 +35,6 @@ Me apasiona el desarrollo de software, diseño y edicion de archivos multimedia,
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
 <!--
