@@ -4,7 +4,7 @@
 
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Ingeniero+en+Sistemas+Computacionales,;Graduada+de+Data+Scientist,;Estudiando+Diseño+Grafico+y+Marketing+Digital,;Apasionada+por+aprender+nuevas+habilidades..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Me+encanta+el+desarrollo+de+software+y+edicion+multimedia..&hearts;++;Ingeniero+en+Sistemas+Computacionales,;Graduada+de+Data+Scientist,;Estudiando+Diseño+Grafico+y+Marketing+Digital,;Apasionada+por+aprender+nuevas+habilidades..<3"></a>
 </p>
 <br>
 
@@ -23,7 +23,7 @@ Me apasiona el desarrollo de software, diseño y edicion de archivos multimedia,
 
 - **Cloud Hosting**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Github Pages](/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 
 - **Softwares y Herramientas-**:
 
