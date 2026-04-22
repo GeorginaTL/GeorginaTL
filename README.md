@@ -10,8 +10,8 @@
 
 
 **Sobre mi**
-- Iniciando con entusiasmo mi carrera de Data Scientist. 
-- Me apasiona el desarrollo de software, diseño y edicion de archivos multimedia, Quisiera utilizar mis conocimientos para satisfacer una necesidad empresarial y dar un excelente servicio a clientes.
+Me apasiona crear aplicaciones web y aprender nuevas tecnologías, así como temas de música, matemáticas y física.  
+Actualmente estoy mejorando mis habilidades en desarrollo web.
 
 
 <br>
